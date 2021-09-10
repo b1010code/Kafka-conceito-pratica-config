@@ -1,20 +1,20 @@
-# Implementando Apache Kafka -configuração, conceito e prática - Gilberto Domingos
+# Implementando Apache Kafka - Gilberto Domingos
+
+- configuração, conceito e prática 
 
 Kafka puro entendendo seus conceitos, prática e configuração no windows 10
-
-# Implementando Apache Kafka - Gilberto Domingos
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 1° Passo ->
 
 Download no site https://kafka.apache.org/downloads
 
-# Extrair arquivo baixado e copiar conteudo
+ Extrair arquivo baixado e copiar conteudo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 2° Passo -> 
 
-# Criar estrutura de pastas pasta
+ Criar estrutura de pastas pasta
 
 C:\ 
 |------Kafka	
