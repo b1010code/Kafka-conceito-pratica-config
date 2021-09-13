@@ -1,4 +1,4 @@
-# Implementando Apache Kafka - Gilberto Domingos
+# Implementando Apache Kafka 
 
 - configuração, conceito e prática 
 

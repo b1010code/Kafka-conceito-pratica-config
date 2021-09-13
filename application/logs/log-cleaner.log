@@ -1,4 +1,0 @@
-[2021-09-10 12:51:30,847] INFO Starting the log cleaner (kafka.log.LogCleaner)
-[2021-09-10 12:51:30,899] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
-[2021-09-10 12:51:55,227] INFO Starting the log cleaner (kafka.log.LogCleaner)
-[2021-09-10 12:51:55,273] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
