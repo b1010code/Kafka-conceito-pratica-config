@@ -1,10 +1,18 @@
 # Implementando Apache Kafka 
 
-- configuração, conceito e prática 
+- configuração, conceito e prática
+
+Observação : 
+
+1 - sempre subir primeiro o  zookeeper-server-start.bat  C:\kafka\config\zookeeper.properties
+2 - kafka-server-start.bat  C:\kafka\config\server.properties
+3 - Criar topicos exe :   kafka-topics --bootstrap-server localhost:9092 --create --topic teste6
+4 - Listar :  kafka-topics --bootstrap-server localhost:9092 --list
+5 - OBS: kafka não recomendado usar puro no windows da problema quando apagar um tópico cai tudo .... use com docker
 
 Kafka puro entendendo seus conceitos, prática e configuração no windows 10
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------   INÍCIO  -----------------------------------------------------------------------------------------------------------------------
 1° Passo ->
 
 Download no site https://kafka.apache.org/downloads
