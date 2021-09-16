@@ -2,6 +2,12 @@
 
 - configuração, conceito e prática
 
+Ordem funcionamento :
+
+zookeeper-server-start.bat  C:\Kafka\config\zookeeper.properties
+kafka-server-start.bat C:\kafka\config\server.properties
+kafka-topics --bootstrap-server localhost:9092 --create --topic JavaTest
+
 Observação : 
 
 1 - sempre subir primeiro o  zookeeper-server-start.bat  C:\kafka\config\zookeeper.properties

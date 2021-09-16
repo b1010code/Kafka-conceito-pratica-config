@@ -1,5 +1,5 @@
 0
-52
+56
 __consumer_offsets 22 0
 __consumer_offsets 30 0
 __consumer_offsets 8 0
@@ -7,8 +7,9 @@ __consumer_offsets 21 0
 __consumer_offsets 4 0
 __consumer_offsets 27 0
 __consumer_offsets 7 0
-__consumer_offsets 9 0
+__consumer_offsets 9 7
 __consumer_offsets 46 0
+JavaNew 0 0
 __consumer_offsets 25 0
 __consumer_offsets 35 0
 __consumer_offsets 41 0
@@ -20,9 +21,11 @@ __consumer_offsets 16 0
 __consumer_offsets 28 0
 __consumer_offsets 31 0
 __consumer_offsets 36 0
+JavaTest 0 2
 __consumer_offsets 42 0
 __consumer_offsets 3 0
 __consumer_offsets 18 0
+teste667 0 0
 __consumer_offsets 37 0
 __consumer_offsets 15 0
 __consumer_offsets 24 0
@@ -36,9 +39,10 @@ __consumer_offsets 2 0
 __consumer_offsets 43 0
 __consumer_offsets 6 0
 __consumer_offsets 14 0
-teste6 0 0
+teste6 0 11
+JavaOK 0 0
 __consumer_offsets 20 0
-__consumer_offsets 0 0
+__consumer_offsets 0 3
 __consumer_offsets 44 0
 __consumer_offsets 39 0
 __consumer_offsets 12 0
