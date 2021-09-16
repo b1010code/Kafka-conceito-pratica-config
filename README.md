@@ -23,37 +23,12 @@ Download no site https://kafka.apache.org/downloads
 2° Passo -> 
 
  Criar estrutura de pastas pasta
-
-C:\ 
-|------Kafka	
-|---------application
-|------------Conteudo (Colar conteudo da pasta de DOWNLOAD Aqui)
-|---------data
-|------------zookeeper
-|---------tmp
-|------------kafka-logs
-|---------------1
-|---------------2
-|---------batch
-
-Ou se prefereir, abrir o Prompt de comando e executar os seguintes comandos (pressione WIN + R, escreva cmd e aperte enter):
-C:
-mkdir C:\Kafka
-mkdir C:\Kafka\application
-mkdir C:\Kafka\data
-mkdir C:\Kafka\data\zookeeper
-mkdir C:\Kafka\tmp
-mkdir C:\Kafka\tmp\kafka-logs
-mkdir C:\Kafka\tmp\kafka-logs\1
-mkdir C:\Kafka\tmp\kafka-logs\2
-mkdir C:\Kafka\batch
-
 Caso o seu Disco Local não seja particionado, e você apenas possua um, utilize "C:	"	
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 3° Passo ->
 
-# Abrir pasta C:\Kafka\application\config\
+# Abrir pasta C:\Kafka\config\
 copiar arquivo server.properties e colar duas vezes o mesmo conteudo e renomear com os nomes abaixo
 - server1.properties 
 - server2.properties
