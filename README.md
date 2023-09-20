@@ -14,7 +14,7 @@ Observação :  <br>
 2 - kafka-server-start.bat  C:\kafka\config\server.properties  <br>
 3 - Criar topicos exe :   kafka-topics --bootstrap-server localhost:9092 --create --topic teste6  <br>
 4 - Listar :  kafka-topics --bootstrap-server localhost:9092 --list  <br>
-5 - OBS: kafka não recomendado usar puro no windows da problema quando apagar um tópico cai tudo .... use com docker  <br>
+5 - OBS: eu uso "Linux" e com docker,  foi um experimento com windows  <br>
 
 Kafka puro entendendo seus conceitos, prática e configuração no windows 10  <br>
 
